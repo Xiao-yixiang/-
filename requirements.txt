@@ -1,0 +1,5 @@
+requests~=2.31.0
+pandas~=2.2.1
+jieba~=0.42.1
+numpy~=1.26.4
+pyecharts~=2.0.6
